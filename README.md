@@ -1,16 +1,3 @@
-# Time Controller Application
-
-Keywords: Angular, Ionic, Cordova, Android, Typescript, Bootstrap, Time, Management
-
-[Try it online (stackblitz.com)](https://stackblitz.com/github/ibarapascal/time-controller)
-
-[Try it on your phone (Android 9 apk)](https://github.com/ibarapascal/time-controller/blob/master/TimeController.apk)
-
-
-## Current layout in 2019/08/08
-
-![Current layout gif](https://raw.githubusercontent.com/ibarapascal/time-controller/master/record/devGif/SVID_20190808_235716_1.gif)
-
 
 ## Introduction
 
@@ -25,43 +12,6 @@ An application which can let you:
 - Give full statistic data and chart.
   
 - Save and export the record data to external storage.
-
-
-## Dev record link
-
-- [Environment, build, signature](#20190715)
-
-- [Data structure, static Html, import bootstrap](#20190718)
-
-- [Chart handling](#20190721)
-
-- [Service: timestamp, Update/VersionUp: Angular & Ionic](#20190722)
-
-- [Template adjust, chart scale](#20190724)
-
-- [EventListener](#20190725)
-
-- [SetInterval: fontColor, input time drag](#20190726)
-
-- [Module: ColorPicker](#20190727)
-
-- [Controller: alert, input date drag](#20190728)
-
-- [Storage](#20190729)
-
-- [Multidays data processing](#20190730)
-
-- [On device debug: devapp and chrome://inspect/](#20190731)
-
-- [Bug fix](#20190801)
-
-- [Export / import data via file](#20190805)
-
-- [Statistic chart, navigating lifecycle event](#20190807)
-
-- [Tslint check, flesh button](#20190808)
-
-- [TODO](#TODO)
 
 
 ## Timeline dev record details
